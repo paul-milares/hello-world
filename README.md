@@ -1,2 +1,2 @@
 # hello-world
-Test repository for tutorila purpose
+Test repository for tutorial purpose
